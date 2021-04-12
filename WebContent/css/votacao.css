@@ -1,0 +1,86 @@
+@charset "ISO-8859-1";
+
+
+body{
+	
+	background-image: url("fundoUrna.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.topo {
+	background-color: white;
+}
+
+.mae{
+	position:absolute;
+	left:455px;
+	top:360px;
+	font-size: 50px;
+	color:white;
+}
+
+.filha{
+	position:absolute;
+	top:270px;
+	left: 740px;
+}
+
+.InserirNumero{
+	width: 40px;
+	height: 70px;
+	font-size:20px;
+}
+
+.BotaoUrna{
+	margin-left:10px;
+	margin-bottom:5px;
+	width: 50px;
+	height:30px;
+	background-color: white;
+	font-size:12px ;
+	color: gray;
+	
+}
+
+.botoes{
+	margin-top:7px;
+	margin-left: -10px;
+	color:white;
+}
+
+.BotaoUrna:hover{
+	margin-left:10px;
+	margin-bottom:5px;
+	width: 55px;
+	height:35px;
+	background-color: black;
+	color: white;
+	font-size:12px ;
+	
+}
+.b0{
+	margin-left: 64px;
+}
+
+.bEntrar{
+	background-color: #53f44c;
+}
+
+.bCorrige{
+	background-color: #ffa800;
+}
+
+.Est {
+	width: 10px;
+	height: 10px;
+}
+
+.fotoV{
+	position:absolute;
+	top:300px;
+	left:300px;
+	width: 40px;
+	height: 70px;
+}
+	

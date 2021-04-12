@@ -1,0 +1,61 @@
+@charset "ISO-8859-1";
+
+
+#patriota{
+	
+	width: 400px;
+	height:100px;
+	background-image: url("img/partidos/patriota.jpg"),green;
+}
+
+#patriota:hover{
+	width:450px;
+	height: 150px;
+	background-image: url("img/partidos/patriota.jpg"),green;
+	background-size: cover;
+	background-repeat: none;
+}
+#lPATRIOTA{
+	margin-top:40px;
+	color: white;
+	
+	}
+
+#pt{
+	
+	width: 400px;
+	height:100px;
+	background-image: url("img/partidos/ptfundo.jpg"),red;
+}
+#pt:hover{
+	width:450px;
+	height: 150px;
+	background-image: url("img/partidos/ptfundo.jpg"),green;
+	background-size: cover;
+	background-repeat: none;
+}
+#lPT{
+	margin-top:40px;
+	color: white;
+	
+	}
+
+
+#psdb{
+	
+	width: 400px;
+	height:100px;
+	background-image: url("img/partidos/psdbfundo.jpg"),blue;
+}
+#psdb:hover{
+	width:450px;
+	height: 150px;
+	background-image: url("img/partidos/psdbfundo.jpg"),green;
+	background-size: cover;
+	background-repeat: none;
+}
+#lPSDB{
+	margin-top:40px;
+	color: white;
+	
+	}
